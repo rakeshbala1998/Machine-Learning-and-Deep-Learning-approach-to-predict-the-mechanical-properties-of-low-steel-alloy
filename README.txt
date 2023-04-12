@@ -1,0 +1,5 @@
+This project estimated the Mechanical Properties of the low alloy steel dataset obtained from the Kaggle Website. We used machine learning and Deep Learning Algorithms to predict the Mechanical properties such as proof strength, tensile strength, percentage Elongation, and percentage reduction in area. We trained our model using different features such as the composition (different percentages) of materials like carbon, Magnesium, Phosphorus, Sulphur, Nickel, Chromium, Molybdenum, Copper, Vanadium, Aluminum, and Nitrogen. We compared the mean square value results obtained from predicted values in the dataset for different machine learning models and tabulated them in the results section.
+Linear Regression, Linear Regression with scaled Features, K-Nearest Neighbors, Random Forests, and Neural Networks models were used. And those models were used to predict the test dataset and calculate the root mean squared error. 
+
+
+Dataset link:https://www.kaggle.com/code/rohannemade/r2-score-0-91-mechanical-properties-prediction/data?select=MatNavi+Mechanical+properties+of+low-alloy+steels.csv
